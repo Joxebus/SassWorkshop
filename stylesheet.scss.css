@@ -1,9 +1,0 @@
-$primary-color: #00C;
-
-body {
-	background-color: $primary-color;
-}
-
-.miClase{
-	border-color: $primary-color;
-}
